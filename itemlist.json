@@ -6509,7 +6509,409 @@
 		"price": 22900,
 		"category": "Misc",
 		"defname": "XenonIonTurbine"
+	},
+	{
+		"abr": "addictionpurifier",
+		"price": 18333,
+		"category": "Drugs",
+		"defname": "MFAddictionPurifier"
+	},
+	{
+		"abr": "bastion",
+		"price": 11667,
+		"category": "Drugs",
+		"defname": "MFBastion"
+	},
+	{
+		"abr": "herculium",
+		"price": 333,
+		"category": "Drugs",
+		"defname": "MFHerculium"
+	},
+	{
+		"abr": "mechaniteforge",
+		"price": 8917,
+		"category": "Production",
+		"defname": "MFMechaniteForge"
+	},
+	{
+		"abr": "mechanites",
+		"price": 33,
+		"category": "Manufactured",
+		"defname": "MFMechanitesBase"
+	},
+	{
+		"abr": "miniquarry",
+		"price": 260,
+		"category": "Misc",
+		"defname": "QRY_MiniQuarry"
+	},
+	{
+		"abr": "peithium",
+		"price": 333,
+		"category": "Drugs",
+		"defname": "MFPeithium"
+	},
+	{
+		"abr": "quarry",
+		"price": 617,
+		"category": "Misc",
+		"defname": "QRY_Quarry"
+	},
+	{
+		"abr": "quarryplatform",
+		"price": 168,
+		"category": "Misc",
+		"defname": "QRY_Platform"
+	},
+	{
+		"abr": "seraphium",
+		"price": 13333,
+		"category": "Drugs",
+		"defname": "MFAngelium"
+	},
+	{
+		"abr": "trollblood",
+		"price": 18333,
+		"category": "Drugs",
+		"defname": "MFHealingFactor"
+	},
+	{
+		"abr": "desiri",
+		"price": 333,
+		"category": "Animal",
+		"defname": "Animal_Desiri"
+	},
+	{
+		"abr": "orifur",
+		"price": 8,
+		"category": "Leathers",
+		"defname": "Leather_Desiri"
+	},
+	{
+		"abr": "ammobox",
+		"price": 600,
+		"category": "Furniture",
+		"defname": "JDSAmmo_BoxA"
+	},
+	{
+		"abr": "ammobox",
+		"price": 1983,
+		"category": "Furniture",
+		"defname": "JDSAmmo_BoxB"
+	},
+	{
+		"abr": "ammobox",
+		"price": 3142,
+		"category": "Furniture",
+		"defname": "JDSAmmo_BoxC"
+	},
+	{
+		"abr": "ammocrate",
+		"price": 169,
+		"category": "Furniture",
+		"defname": "JDSAmmo_Crate"
+	},
+	{
+		"abr": "ammocratepiles",
+		"price": 1533,
+		"category": "Furniture",
+		"defname": "JDSAmmo_Crate_Piles"
+	},
+	{
+		"abr": "bankvault",
+		"price": 21983,
+		"category": "Furniture",
+		"defname": "JDSBank_Vault"
+	},
+	{
+		"abr": "barrel",
+		"price": 204,
+		"category": "Furniture",
+		"defname": "JDS_Wooden_Barrel"
+	},
+	{
+		"abr": "barrelpile",
+		"price": 675,
+		"category": "Furniture",
+		"defname": "JDS_Wooden_Barrel_Pile"
+	},
+	{
+		"abr": "beercrate",
+		"price": 161,
+		"category": "Furniture",
+		"defname": "JDSBeer_Crate"
+	},
+	{
+		"abr": "crateb",
+		"price": 237,
+		"category": "Furniture",
+		"defname": "JDS_Wooden_Crate_B"
+	},
+	{
+		"abr": "cratec",
+		"price": 237,
+		"category": "Furniture",
+		"defname": "JDS_Wooden_Crate_C"
+	},
+	{
+		"abr": "industrialdumpster",
+		"price": 1783,
+		"category": "Furniture",
+		"defname": "JDSIndustrial_Dumpster"
+	},
+	{
+		"abr": "industrialshelf(empty)",
+		"price": 1717,
+		"category": "Furniture",
+		"defname": "JDSIndustrial_shelf_empty"
+	},
+	{
+		"abr": "industrialshelf(full)",
+		"price": 5783,
+		"category": "Furniture",
+		"defname": "JDSIndustrial_shelf"
+	},
+	{
+		"abr": "metalcratebiggerpile",
+		"price": 1525,
+		"category": "Furniture",
+		"defname": "JDS_Metal_Crate_Bigger_Pile"
+	},
+	{
+		"abr": "metalcratesmallpile",
+		"price": 425,
+		"category": "Furniture",
+		"defname": "JDS_Metal_Crate_Small_Pile"
+	},
+	{
+		"abr": "metalshelfa(empty)",
+		"price": 650,
+		"category": "Furniture",
+		"defname": "JDSMetal_Shelf_A"
+	},
+	{
+		"abr": "metalshelfb(empty)",
+		"price": 675,
+		"category": "Furniture",
+		"defname": "JDSMetal_Shelf_B"
+	},
+	{
+		"abr": "toolbox",
+		"price": 4092,
+		"category": "Furniture",
+		"defname": "JDSTool_Box"
+	},
+	{
+		"abr": "overheadlight",
+		"price": 49,
+		"category": "Furniture",
+		"defname": "OverheadLightCircle"
+	},
+	{
+		"abr": "overheadlight(bars)",
+		"price": 49,
+		"category": "Furniture",
+		"defname": "OverheadLightBars"
+	},
+	{
+		"abr": "overheadlight(square)",
+		"price": 49,
+		"category": "Furniture",
+		"defname": "OverheadLightSquare"
+	},
+	{
+		"abr": "overheadlight(widebars)",
+		"price": 49,
+		"category": "Furniture",
+		"defname": "OverheadLightBarsxTwo"
+	},
+	{
+		"abr": "beamcannonsatellitepod",
+		"price": 1567,
+		"category": "Misc",
+		"defname": "BeamCannonSatellitePodSW"
+	},
+	{
+		"abr": "bombardmentsatellitepod",
+		"price": 1567,
+		"category": "Misc",
+		"defname": "KineticBombardmentSatellitePodSW"
+	},
+	{
+		"abr": "bulletstorm",
+		"price": 1667,
+		"category": "Ranged weapons",
+		"defname": "Gun_BulletstormSW"
+	},
+	{
+		"abr": "burngauntlet",
+		"price": 417,
+		"category": "Melee weapons",
+		"defname": "BurnStickSW"
+	},
+	{
+		"abr": "cherubmechinjector",
+		"price": 3333,
+		"category": "Items",
+		"defname": "CherubMechInjectorSW"
+	},
+	{
+		"abr": "compactfissionreactor",
+		"price": 3367,
+		"category": "Misc",
+		"defname": "CompactFissionPowerSW"
+	},
+	{
+		"abr": "computingsystem",
+		"price": 1700,
+		"category": "Misc",
+		"defname": "ComputingSystemSW"
+	},
+	{
+		"abr": "fibrousmechinjector",
+		"price": 300,
+		"category": "Items",
+		"defname": "FibrousMechInjectorSW"
+	},
+	{
+		"abr": "gausslance",
+		"price": 2058,
+		"category": "Ranged weapons",
+		"defname": "Gun_RailgunSW"
+	},
+	{
+		"abr": "gaussrifle",
+		"price": 1925,
+		"category": "Ranged weapons",
+		"defname": "Gun_GaussrifleSW"
+	},
+	{
+		"abr": "glitterworldhospitalbed",
+		"price": 1958,
+		"category": "Furniture",
+		"defname": "GlitterworldHospitalBedSW"
+	},
+	{
+		"abr": "lazarusmechinjector",
+		"price": 583,
+		"category": "Items",
+		"defname": "LazarusMechInjectorSW"
+	},
+	{
+		"abr": "m134sentrygun",
+		"price": 1292,
+		"category": "Security",
+		"defname": "Turret_M134MGs"
+	},
+	{
+		"abr": "m2hbsentrygun",
+		"price": 1542,
+		"category": "Security",
+		"defname": "Turret_M2HBs"
+	},
+	{
+		"abr": "matterweaver",
+		"price": 1517,
+		"category": "Production",
+		"defname": "TableWeaverSW"
+	},
+	{
+		"abr": "mechaniteassembly",
+		"price": 1767,
+		"category": "Production",
+		"defname": "MechaniteAssemblySW"
+	},
+	{
+		"abr": "mendingkit",
+		"price": 17,
+		"category": "Manufactured",
+		"defname": "MendingKit"
+	},
+	{
+		"abr": "mendingworkbench",
+		"price": 583,
+		"category": "Production",
+		"defname": "TableMending"
+	},
+	{
+		"abr": "mindalteringdevice",
+		"price": 1817,
+		"category": "Misc",
+		"defname": "MindAlteringDeviceSW"
+	},
+	{
+		"abr": "mk19sentrygun",
+		"price": 1475,
+		"category": "Security",
+		"defname": "Turret_Mk19MGLs"
+	},
+	{
+		"abr": "mounteddp-28turret",
+		"price": 825,
+		"category": "Security",
+		"defname": "Turret_DP28MG"
+	},
+	{
+		"abr": "mountedm134turret",
+		"price": 1017,
+		"category": "Security",
+		"defname": "Turret_M134MG"
+	},
+	{
+		"abr": "mountedm2hbturret",
+		"price": 1267,
+		"category": "Security",
+		"defname": "Turret_M2HB"
+	},
+	{
+		"abr": "mountedmk19turret",
+		"price": 1183,
+		"category": "Security",
+		"defname": "Turret_Mk19MGL"
+	},
+	{
+		"abr": "mountedtwinm2hbturret",
+		"price": 2567,
+		"category": "Security",
+		"defname": "Turret_M2HBT"
+	},
+	{
+		"abr": "neutroglycerin",
+		"price": 3,
+		"category": "Manufactured",
+		"defname": "NeutroglycerinSW"
+	},
+	{
+		"abr": "paingun",
+		"price": 1392,
+		"category": "Ranged weapons",
+		"defname": "Gun_PainGunSW"
+	},
+	{
+		"abr": "painstick",
+		"price": 400,
+		"category": "Melee weapons",
+		"defname": "PainStickSW"
+	},
+	{
+		"abr": "plasmagun",
+		"price": 2308,
+		"category": "Ranged weapons",
+		"defname": "Gun_PlasmaGunSW"
+	},
+	{
+		"abr": "reconstructormechinjector",
+		"price": 667,
+		"category": "Items",
+		"defname": "ReconstructorMechSerumSW"
+	},
+	{
+		"abr": "sensorymechinjector",
+		"price": 267,
+		"category": "Items",
+		"defname": "SensoryMechInjectorSW"
 	}
 	],
-	"total": 1808
+	"total": 1875
 }
