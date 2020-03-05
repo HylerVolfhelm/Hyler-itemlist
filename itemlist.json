@@ -6368,7 +6368,7 @@
 	},
 	{
 		"abr": "plasmafusionreactor",
-		"price": 130050,
+		"price": 30000,
 		"category": "Misc",
 		"defname": "PlasmaReactor"
 	},
@@ -6911,7 +6911,907 @@
 		"price": 267,
 		"category": "Items",
 		"defname": "SensoryMechInjectorSW"
+	},
+	{
+		"abr": "adamantiumbonemodule",
+		"price": 5000,
+		"category": "Archotech modules",
+		"defname": "MSE_AdamantiumBoneModule"
+	},
+	{
+		"abr": "adamantiumcoatedbonemodule",
+		"price": 2500,
+		"category": "Bionic modules",
+		"defname": "MSE_AdamantiumCoatedBoneModule"
+	},
+	{
+		"abr": "advancedantitoxinkidney",
+		"price": 5833,
+		"category": "Archotech",
+		"defname": "AdvancedAntitoxinKidney"
+	},
+	{
+		"abr": "advancedappetitesuppressant",
+		"price": 2167,
+		"category": "Implants",
+		"defname": "MSE_AdvancedAppetiteSuppressant"
+	},
+	{
+		"abr": "advancedbreathingsupportrib",
+		"price": 4667,
+		"category": "Archotech",
+		"defname": "AdvancedBreathingSupportRib"
+	},
+	{
+		"abr": "advancedbuilderai",
+		"price": 3333,
+		"category": "Implants",
+		"defname": "MSE_AdvancedBuilderAI"
+	},
+	{
+		"abr": "advancedchefai",
+		"price": 3333,
+		"category": "Implants",
+		"defname": "MSE_AdvancedChefAI"
+	},
+	{
+		"abr": "advancedcoldregulatorrib",
+		"price": 4667,
+		"category": "Archotech",
+		"defname": "AdvancedColdRegulatorRib"
+	},
+	{
+		"abr": "advanceddiplomatai",
+		"price": 3333,
+		"category": "Implants",
+		"defname": "MSE_AdvancedDiplomatAI"
+	},
+	{
+		"abr": "advanceddoctorai",
+		"price": 3333,
+		"category": "Implants",
+		"defname": "MSE_AdvancedDoctorAI"
+	},
+	{
+		"abr": "advancedendoskeletonstimulator",
+		"price": 2500,
+		"category": "Implants",
+		"defname": "MSE_AdvancedEndoskeletonStimulator"
+	},
+	{
+		"abr": "advancedenergizedliver",
+		"price": 5833,
+		"category": "Archotech",
+		"defname": "AdvancedEnergizedLiver"
+	},
+	{
+		"abr": "advancedfarmerai",
+		"price": 3333,
+		"category": "Implants",
+		"defname": "MSE_AdvancedFarmerAI"
+	},
+	{
+		"abr": "advancedheatregulatorrib",
+		"price": 4667,
+		"category": "Archotech",
+		"defname": "AdvancedHeatRegulatorRib"
+	},
+	{
+		"abr": "advancedhunterai",
+		"price": 3333,
+		"category": "Implants",
+		"defname": "MSE_AdvancedHunterAI"
+	},
+	{
+		"abr": "advancedjoywire",
+		"price": 2167,
+		"category": "Implants",
+		"defname": "AdvancedJoywire"
+	},
+	{
+		"abr": "advancedlaborai",
+		"price": 3333,
+		"category": "Implants",
+		"defname": "MSE_AdvancedLaborAI"
+	},
+	{
+		"abr": "advancedmedicalliver",
+		"price": 5833,
+		"category": "Archotech",
+		"defname": "AdvancedMedicalLiver"
+	},
+	{
+		"abr": "advancedmeleeplatformmodule",
+		"price": 4167,
+		"category": "Archotech modules",
+		"defname": "MSE_AdvancedMeleePlatformModule"
+	},
+	{
+		"abr": "advancedminerai",
+		"price": 3333,
+		"category": "Implants",
+		"defname": "MSE_AdvancedMinerAI"
+	},
+	{
+		"abr": "advancedmusclestimulator",
+		"price": 2500,
+		"category": "Implants",
+		"defname": "MSE_AdvancedMuscleStimulator"
+	},
+	{
+		"abr": "advancedpainstopper",
+		"price": 2167,
+		"category": "Implants",
+		"defname": "AdvancedPainstopper"
+	},
+	{
+		"abr": "advancedpowerarm",
+		"price": 10000,
+		"category": "Archotech",
+		"defname": "AdvancedPowerArm"
+	},
+	{
+		"abr": "advancedpowerarmmodule",
+		"price": 18333,
+		"category": "Archotech modules",
+		"defname": "MSE_AdvancedPowerArmModule"
+	},
+	{
+		"abr": "advancedpowerblade",
+		"price": 16667,
+		"category": "Archotech",
+		"defname": "MSE_AdvancedPowerBlade"
+	},
+	{
+		"abr": "advancedpowerclaw",
+		"price": 5833,
+		"category": "Archotech",
+		"defname": "AdvancedPowerClaw"
+	},
+	{
+		"abr": "advancedpowerclawmodule",
+		"price": 10000,
+		"category": "Archotech modules",
+		"defname": "MSE_AdvancedPowerClawModule"
+	},
+	{
+		"abr": "advancedrangedplatformmodule",
+		"price": 4167,
+		"category": "Archotech modules",
+		"defname": "MSE_AdvancedRangedPlatformModule"
+	},
+	{
+		"abr": "advancedrelaxationrib",
+		"price": 4667,
+		"category": "Archotech",
+		"defname": "AdvancedRelaxationRib"
+	},
+	{
+		"abr": "advancedtamerai",
+		"price": 3333,
+		"category": "Implants",
+		"defname": "MSE_AdvancedTamerAI"
+	},
+	{
+		"abr": "antitoxinkidney",
+		"price": 1667,
+		"category": "Bionic",
+		"defname": "AntitoxinKidney"
+	},
+	{
+		"abr": "appetitesuppressant",
+		"price": 1333,
+		"category": "Implants",
+		"defname": "MSE_AppetiteSuppressant"
+	},
+	{
+		"abr": "archotecharmmodule",
+		"price": 8667,
+		"category": "Archotech modules",
+		"defname": "MSE_ArchotechArmModule"
+	},
+	{
+		"abr": "archotechclavicle",
+		"price": 1333,
+		"category": "Archotech",
+		"defname": "ArchotechClavicle"
+	},
+	{
+		"abr": "archotechclaviclemodule",
+		"price": 2667,
+		"category": "Archotech modules",
+		"defname": "MSE_ArchotechClavicleModule"
+	},
+	{
+		"abr": "archotechear",
+		"price": 4667,
+		"category": "Archotech",
+		"defname": "ArchotechEar"
+	},
+	{
+		"abr": "archotechfemur",
+		"price": 2500,
+		"category": "Archotech",
+		"defname": "ArchotechFemur"
+	},
+	{
+		"abr": "archotechfemurmodule",
+		"price": 4333,
+		"category": "Archotech modules",
+		"defname": "MSE_ArchotechFemurModule"
+	},
+	{
+		"abr": "archotechfinger",
+		"price": 1333,
+		"category": "Archotech",
+		"defname": "ArchotechFinger"
+	},
+	{
+		"abr": "archotechfingermodule",
+		"price": 2667,
+		"category": "Archotech modules",
+		"defname": "MSE_ArchotechFingerModule"
+	},
+	{
+		"abr": "archotechfoot",
+		"price": 2500,
+		"category": "Archotech",
+		"defname": "ArchotechFoot"
+	},
+	{
+		"abr": "archotechfootmodule",
+		"price": 5000,
+		"category": "Archotech modules",
+		"defname": "MSE_ArchotechFootModule"
+	},
+	{
+		"abr": "archotechhand",
+		"price": 2500,
+		"category": "Archotech",
+		"defname": "ArchotechHand"
+	},
+	{
+		"abr": "archotechhandmodule",
+		"price": 5000,
+		"category": "Archotech modules",
+		"defname": "MSE_ArchotechHandModule"
+	},
+	{
+		"abr": "archotechheart",
+		"price": 5833,
+		"category": "Archotech",
+		"defname": "ArchotechHeart"
+	},
+	{
+		"abr": "archotechhumerus",
+		"price": 2500,
+		"category": "Archotech",
+		"defname": "ArchotechHumerus"
+	},
+	{
+		"abr": "archotechhumerusmodule",
+		"price": 4333,
+		"category": "Archotech modules",
+		"defname": "MSE_ArchotechHumerusModule"
+	},
+	{
+		"abr": "archotechjaw",
+		"price": 2500,
+		"category": "Archotech",
+		"defname": "ArchotechJaw"
+	},
+	{
+		"abr": "archotechkidney",
+		"price": 5833,
+		"category": "Archotech",
+		"defname": "ArchotechKidney"
+	},
+	{
+		"abr": "archotechliver",
+		"price": 5833,
+		"category": "Archotech",
+		"defname": "ArchotechLiver"
+	},
+	{
+		"abr": "archotechlung",
+		"price": 5833,
+		"category": "Archotech",
+		"defname": "ArchotechLung"
+	},
+	{
+		"abr": "archotechpelvis",
+		"price": 2500,
+		"category": "Archotech",
+		"defname": "ArchotechPelvis"
+	},
+	{
+		"abr": "archotechradius",
+		"price": 2500,
+		"category": "Archotech",
+		"defname": "ArchotechRadius"
+	},
+	{
+		"abr": "archotechradiusmodule",
+		"price": 4333,
+		"category": "Archotech modules",
+		"defname": "MSE_ArchotechRadiusModule"
+	},
+	{
+		"abr": "archotechrib",
+		"price": 2500,
+		"category": "Archotech",
+		"defname": "ArchotechRib"
+	},
+	{
+		"abr": "archotechshoulder",
+		"price": 5833,
+		"category": "Archotech",
+		"defname": "ArchotechShoulder"
+	},
+	{
+		"abr": "archotechspine",
+		"price": 4667,
+		"category": "Archotech",
+		"defname": "ArchotechSpine"
+	},
+	{
+		"abr": "archotechsternum",
+		"price": 1333,
+		"category": "Archotech",
+		"defname": "ArchotechSternum"
+	},
+	{
+		"abr": "archotechstomach",
+		"price": 5833,
+		"category": "Archotech",
+		"defname": "ArchotechStomach"
+	},
+	{
+		"abr": "archotechtibia",
+		"price": 2500,
+		"category": "Archotech",
+		"defname": "ArchotechTibia"
+	},
+	{
+		"abr": "archotechtibiamodule",
+		"price": 4333,
+		"category": "Archotech modules",
+		"defname": "MSE_ArchotechTibiaModule"
+	},
+	{
+		"abr": "archotechtoe",
+		"price": 1333,
+		"category": "Archotech",
+		"defname": "ArchotechToe"
+	},
+	{
+		"abr": "archotechtoemodule",
+		"price": 2667,
+		"category": "Archotech modules",
+		"defname": "MSE_ArchotechToeModule"
+	},
+	{
+		"abr": "arm",
+		"price": 417,
+		"category": "Natural",
+		"defname": "Arm"
+	},
+	{
+		"abr": "basiclaborai",
+		"price": 2000,
+		"category": "Implants",
+		"defname": "MSE_BasicLaborAI"
+	},
+	{
+		"abr": "bionicarmmodule",
+		"price": 3333,
+		"category": "Bionic modules",
+		"defname": "MSE_BionicArmModule"
+	},
+	{
+		"abr": "bionicclavicle",
+		"price": 500,
+		"category": "Bionic",
+		"defname": "BionicClavicle"
+	},
+	{
+		"abr": "bionicclaviclemodule",
+		"price": 1000,
+		"category": "Bionic modules",
+		"defname": "MSE_BionicClavicleModule"
+	},
+	{
+		"abr": "bionicfemur",
+		"price": 833,
+		"category": "Bionic",
+		"defname": "BionicFemur"
+	},
+	{
+		"abr": "bionicfemurmodule",
+		"price": 1667,
+		"category": "Bionic modules",
+		"defname": "MSE_BionicFemurModule"
+	},
+	{
+		"abr": "bionicfinger",
+		"price": 500,
+		"category": "Bionic",
+		"defname": "BionicFinger"
+	},
+	{
+		"abr": "bionicfingermodule",
+		"price": 1000,
+		"category": "Bionic modules",
+		"defname": "MSE_BionicFingerModule"
+	},
+	{
+		"abr": "bionicfoot",
+		"price": 833,
+		"category": "Bionic",
+		"defname": "BionicFoot"
+	},
+	{
+		"abr": "bionicfootmodule",
+		"price": 2000,
+		"category": "Bionic modules",
+		"defname": "MSE_BionicFootModule"
+	},
+	{
+		"abr": "bionichand",
+		"price": 833,
+		"category": "Bionic",
+		"defname": "BionicHand"
+	},
+	{
+		"abr": "bionichandmodule",
+		"price": 2000,
+		"category": "Bionic modules",
+		"defname": "MSE_BionicHandModule"
+	},
+	{
+		"abr": "bionichumerus",
+		"price": 833,
+		"category": "Bionic",
+		"defname": "BionicHumerus"
+	},
+	{
+		"abr": "bionichumerusmodule",
+		"price": 1667,
+		"category": "Bionic modules",
+		"defname": "MSE_BionicHumerusModule"
+	},
+	{
+		"abr": "bionicjaw",
+		"price": 833,
+		"category": "Bionic",
+		"defname": "BionicJaw"
+	},
+	{
+		"abr": "bionickidney",
+		"price": 1667,
+		"category": "Bionic",
+		"defname": "BionicKidney"
+	},
+	{
+		"abr": "bionicliver",
+		"price": 1667,
+		"category": "Bionic",
+		"defname": "BionicLiver"
+	},
+	{
+		"abr": "bioniclung",
+		"price": 1667,
+		"category": "Bionic",
+		"defname": "BionicLung"
+	},
+	{
+		"abr": "bionicmachiningtable",
+		"price": 2825,
+		"category": "Production",
+		"defname": "TableBionicProstheses"
+	},
+	{
+		"abr": "bionicpelvis",
+		"price": 833,
+		"category": "Bionic",
+		"defname": "BionicPelvis"
+	},
+	{
+		"abr": "bionicradius",
+		"price": 833,
+		"category": "Bionic",
+		"defname": "BionicRadius"
+	},
+	{
+		"abr": "bionicradiusmodule",
+		"price": 1667,
+		"category": "Bionic modules",
+		"defname": "MSE_BionicRadiusModule"
+	},
+	{
+		"abr": "bionicrib",
+		"price": 833,
+		"category": "Bionic",
+		"defname": "BionicRib"
+	},
+	{
+		"abr": "bionicshoulder",
+		"price": 2000,
+		"category": "Bionic",
+		"defname": "BionicShoulder"
+	},
+	{
+		"abr": "bionicsternum",
+		"price": 500,
+		"category": "Bionic",
+		"defname": "BionicSternum"
+	},
+	{
+		"abr": "bionictibia",
+		"price": 833,
+		"category": "Bionic",
+		"defname": "BionicTibia"
+	},
+	{
+		"abr": "bionictibiamodule",
+		"price": 1667,
+		"category": "Bionic modules",
+		"defname": "MSE_BionicTibiaModule"
+	},
+	{
+		"abr": "bionictoe",
+		"price": 500,
+		"category": "Bionic",
+		"defname": "BionicToe"
+	},
+	{
+		"abr": "bionictoemodule",
+		"price": 1000,
+		"category": "Bionic modules",
+		"defname": "MSE_BionicToeModule"
+	},
+	{
+		"abr": "braincells",
+		"price": 1667,
+		"category": "Natural",
+		"defname": "Brain"
+	},
+	{
+		"abr": "breathingsupportrib",
+		"price": 1333,
+		"category": "Bionic",
+		"defname": "BreathingSupportRib"
+	},
+	{
+		"abr": "builderai",
+		"price": 2000,
+		"category": "Implants",
+		"defname": "MSE_BuilderAI"
+	},
+	{
+		"abr": "chefai",
+		"price": 2000,
+		"category": "Implants",
+		"defname": "MSE_ChefAI"
+	},
+	{
+		"abr": "coldregulatorrib",
+		"price": 1333,
+		"category": "Bionic",
+		"defname": "ColdRegulatorRib"
+	},
+	{
+		"abr": "denture",
+		"price": 33,
+		"category": "Simple parts",
+		"defname": "Denture"
+	},
+	{
+		"abr": "diplomatai",
+		"price": 2000,
+		"category": "Implants",
+		"defname": "MSE_DiplomatAI"
+	},
+	{
+		"abr": "doctorai",
+		"price": 2000,
+		"category": "Implants",
+		"defname": "MSE_DoctorAI"
+	},
+	{
+		"abr": "ear",
+		"price": 417,
+		"category": "Natural",
+		"defname": "Ear"
+	},
+	{
+		"abr": "endoskeletonstimulator",
+		"price": 1667,
+		"category": "Implants",
+		"defname": "MSE_EndoskeletonStimulator"
+	},
+	{
+		"abr": "energizedliver",
+		"price": 1667,
+		"category": "Bionic",
+		"defname": "EnergizedLiver"
+	},
+	{
+		"abr": "eye",
+		"price": 417,
+		"category": "Natural",
+		"defname": "Eye"
+	},
+	{
+		"abr": "eyepatch",
+		"price": 18,
+		"category": "Simple parts",
+		"defname": "Eyepatch"
+	},
+	{
+		"abr": "farmerai",
+		"price": 2000,
+		"category": "Implants",
+		"defname": "MSE_FarmerAI"
+	},
+	{
+		"abr": "finger",
+		"price": 83,
+		"category": "Natural",
+		"defname": "Finger"
+	},
+	{
+		"abr": "foot",
+		"price": 208,
+		"category": "Natural",
+		"defname": "Foot"
+	},
+	{
+		"abr": "hand",
+		"price": 208,
+		"category": "Natural",
+		"defname": "Hand"
+	},
+	{
+		"abr": "heatregulatorrib",
+		"price": 1333,
+		"category": "Bionic",
+		"defname": "HeatRegulatorRib"
+	},
+	{
+		"abr": "hookhand",
+		"price": 38,
+		"category": "Simple parts",
+		"defname": "HookHand"
+	},
+	{
+		"abr": "hunterai",
+		"price": 2000,
+		"category": "Implants",
+		"defname": "MSE_HunterAI"
+	},
+	{
+		"abr": "jaw",
+		"price": 417,
+		"category": "Natural",
+		"defname": "Jaw"
+	},
+	{
+		"abr": "leg",
+		"price": 417,
+		"category": "Natural",
+		"defname": "Leg"
+	},
+	{
+		"abr": "medicalliver",
+		"price": 1667,
+		"category": "Bionic",
+		"defname": "MedicalLiver"
+	},
+	{
+		"abr": "meleeplatformmodule",
+		"price": 2000,
+		"category": "Bionic modules",
+		"defname": "MSE_MeleePlatformModule"
+	},
+	{
+		"abr": "minerai",
+		"price": 2000,
+		"category": "Implants",
+		"defname": "MSE_MinerAI"
+	},
+	{
+		"abr": "musclestimulator",
+		"price": 1667,
+		"category": "Implants",
+		"defname": "MSE_MuscleStimulator"
+	},
+	{
+		"abr": "nose",
+		"price": 17,
+		"category": "Natural",
+		"defname": "Nose"
+	},
+	{
+		"abr": "pegleg",
+		"price": 50,
+		"category": "Simple parts",
+		"defname": "PegLeg"
+	},
+	{
+		"abr": "powerarm",
+		"price": 3333,
+		"category": "Bionic",
+		"defname": "PowerArm"
+	},
+	{
+		"abr": "powerarmmodule",
+		"price": 6000,
+		"category": "Bionic modules",
+		"defname": "MSE_PowerArmModule"
+	},
+	{
+		"abr": "powerblade",
+		"price": 4000,
+		"category": "Bionic",
+		"defname": "MSE_PowerBlade"
+	},
+	{
+		"abr": "powerclawmodule",
+		"price": 4000,
+		"category": "Bionic modules",
+		"defname": "MSE_PowerClawModule"
+	},
+	{
+		"abr": "prostheticclavicle",
+		"price": 42,
+		"category": "Prosthetic",
+		"defname": "SimpleProstheticClavicle"
+	},
+	{
+		"abr": "prostheticfemur",
+		"price": 100,
+		"category": "Prosthetic",
+		"defname": "SimpleProstheticFemur"
+	},
+	{
+		"abr": "prostheticfinger",
+		"price": 83,
+		"category": "Prosthetic",
+		"defname": "SimpleProstheticFinger"
+	},
+	{
+		"abr": "prostheticfoot",
+		"price": 200,
+		"category": "Prosthetic",
+		"defname": "SimpleProstheticFoot"
+	},
+	{
+		"abr": "prosthetichand",
+		"price": 200,
+		"category": "Prosthetic",
+		"defname": "SimpleProstheticHand"
+	},
+	{
+		"abr": "prosthetichumerus",
+		"price": 100,
+		"category": "Prosthetic",
+		"defname": "SimpleProstheticHumerus"
+	},
+	{
+		"abr": "prostheticjaw",
+		"price": 200,
+		"category": "Prosthetic",
+		"defname": "SimpleProstheticJaw"
+	},
+	{
+		"abr": "prostheticpelvis",
+		"price": 100,
+		"category": "Prosthetic",
+		"defname": "SimpleProstheticPelvis"
+	},
+	{
+		"abr": "prostheticradius",
+		"price": 100,
+		"category": "Prosthetic",
+		"defname": "SimpleProstheticRadius"
+	},
+	{
+		"abr": "prostheticrib",
+		"price": 100,
+		"category": "Prosthetic",
+		"defname": "SimpleProstheticRib"
+	},
+	{
+		"abr": "prostheticsternum",
+		"price": 42,
+		"category": "Prosthetic",
+		"defname": "SimpleProstheticSternum"
+	},
+	{
+		"abr": "prosthetictibia",
+		"price": 100,
+		"category": "Prosthetic",
+		"defname": "SimpleProstheticTibia"
+	},
+	{
+		"abr": "prosthetictoe",
+		"price": 83,
+		"category": "Prosthetic",
+		"defname": "SimpleProstheticToe"
+	},
+	{
+		"abr": "rangedplatformmodule",
+		"price": 2000,
+		"category": "Bionic modules",
+		"defname": "MSE_RangedPlatformModule"
+	},
+	{
+		"abr": "relaxationrib",
+		"price": 1333,
+		"category": "Bionic",
+		"defname": "RelaxationRib"
+	},
+	{
+		"abr": "shoulder",
+		"price": 667,
+		"category": "Natural",
+		"defname": "Shoulder"
+	},
+	{
+		"abr": "stomach",
+		"price": 833,
+		"category": "Natural",
+		"defname": "Stomach"
+	},
+	{
+		"abr": "tamerai",
+		"price": 2000,
+		"category": "Implants",
+		"defname": "MSE_TamerAI"
+	},
+	{
+		"abr": "toe",
+		"price": 83,
+		"category": "Natural",
+		"defname": "Toe"
+	},
+	{
+		"abr": "woodenarm",
+		"price": 50,
+		"category": "Simple parts",
+		"defname": "WoodenArm"
+	},
+	{
+		"abr": "woodenear",
+		"price": 16,
+		"category": "Simple parts",
+		"defname": "WoodenEar"
+	},
+	{
+		"abr": "woodenfinger",
+		"price": 11,
+		"category": "Simple parts",
+		"defname": "WoodenFinger"
+	},
+	{
+		"abr": "woodenfoot",
+		"price": 26,
+		"category": "Simple parts",
+		"defname": "WoodenFoot"
+	},
+	{
+		"abr": "woodennose",
+		"price": 16,
+		"category": "Simple parts",
+		"defname": "WoodenNose"
+	},
+	{
+		"abr": "woodentoe",
+		"price": 11,
+		"category": "Simple parts",
+		"defname": "WoodenToe"
 	}
 	],
-	"total": 1875
+	"total": 2030
 }
