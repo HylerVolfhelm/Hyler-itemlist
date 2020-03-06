@@ -7811,7 +7811,20 @@
 		"price": 11,
 		"category": "Simple parts",
 		"defname": "WoodenToe"
+	},
+	{
+		"abr": "mechanoidpowercell",
+		"price": 3333,
+		"category": "Items",
+		"defname": "MPC_MechanoidPCell"
+	},
+	{
+		"abr": "powercell",
+		"price": 7325,
+		"category": "Misc",
+		"defname": "MPC_MechanoidPowerCell"
 	}
 	],
-	"total": 2030
+	"total": 2032
 }
+
