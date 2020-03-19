@@ -176,11 +176,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "party",
-		"price": 400,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "alphabeavers",
 		"price": 600,
 		"karmatype": "Bad"
@@ -194,11 +189,6 @@
 		"abr": "shippartpsychic",
 		"price": 2400,
 		"karmatype": "Bad"
-	},
-	{
-		"abr": "militaryaid",
-		"price": 700,
-		"karmatype": "Good"
 	},
 	{
 		"abr": "raid",
@@ -307,7 +297,7 @@
 	},
 	{
 		"abr": "reviveall",
-		"price": 8000,
+		"price": 22664,
 		"karmatype": "Good"
 	},
 	{
@@ -316,10 +306,15 @@
 		"karmatype": "Good"
 	},
 	{
+		"abr": "healall",
+		"price": 17336,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "healme",
 		"price": 2167,
 		"karmatype": "Good"
 	}
 	],
-	"total": 64
+	"total": 63
 }
