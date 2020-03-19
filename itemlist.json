@@ -15303,7 +15303,7 @@
 	{
 		"abr": "frijjid",
 		"price": 3333,
-		"category": "Animal",
+		"category": "race",
 		"defname": "Alien_Frijjid"
 	},
 	{
@@ -15339,7 +15339,7 @@
 	{
 		"abr": "logann",
 		"price": 3333,
-		"category": "Animal",
+		"category": "race",
 		"defname": "Alien_Wolvx"
 	},
 	{
@@ -15357,7 +15357,7 @@
 	{
 		"abr": "orassan",
 		"price": 3167,
-		"category": "Animal",
+		"category": "race",
 		"defname": "Alien_Orassan"
 	},
 	{
@@ -15501,7 +15501,7 @@
 	{
 		"abr": "xenn",
 		"price": 3333,
-		"category": "Animal",
+		"category": "race",
 		"defname": "Alien_Xenn"
 	},
 	{
@@ -15621,7 +15621,7 @@
 	{
 		"abr": "argonian",
 		"price": 3333,
-		"category": "Animal",
+		"category": "race",
 		"defname": "Alien_Argonian"
 	},
 	{
@@ -15669,7 +15669,7 @@
 	{
 		"abr": "avali",
 		"price": 2500,
-		"category": "Animal",
+		"category": "race",
 		"defname": "Avali"
 	},
 	{
